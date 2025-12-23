@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Aplicação backend feita em Java + Springboot com o intuito de receber um CNPJ como parâmetro e retornar dados como o próprio CNPJ, Razão Social e Nome Fantasia de uma empresa.<br><br>O intuito é reforçar meus conhecimentos na linguagem.<br><br>Está incluido no projeto a dependência do Banco de Dados MySQL, pois pretendo adicionar mais funcionalidades em breve.</h4>
+<h4 align="left">Aplicação backend feita em Java + Springboot com o intuito de receber um CNPJ como parâmetro e retornar dados como o próprio CNPJ, Razão Social e Nome Fantasia de uma empresa.<br><br>O intuito é reforçar meus conhecimentos na linguagem.<br></h4>
 
 ###
 
